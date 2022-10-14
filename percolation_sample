@@ -1,0 +1,27 @@
+       C   CC CCVVCCC CC 
+    C  C C    CVVCC C C  
+CCCCCC  C   CCCVC  C C  C
+   CCCCCC CC C V   C   C 
+C  C  C C C CCVVCCC   C  
+     C     C CV  C  C C C
+   CCC    C  CVC C   C   
+ CCC    C  C  V   C   CC 
+C  C   C    CCVCCC    C C
+    C       C VC C C C   
+  C C   C  CC V  CCCC CC 
+C  CC C C C CCV CC  C C C
+ CC  C  CC  CVV  C   CC C
+  CCC C C  VVV  C     CCC
+  C  C   CCVC C  C       
+    CCCCC VV  CC       CC
+   CC C C VC   CCC   CC  
+ C    C  CV   C  CC CC CC
+C  C  C   VCC C C CC  CC 
+ CCC  CC CVC     C C CC C
+ CC C C  CVCCC CC  CCCC  
+C C   CCCCVC CC  C CCC   
+C    CC   V CC      C    
+ CCC C    V  C     C CC C
+C         V   C C        
+Percolation achieved in 25 x 25 graph after 385 iterations
+0.616% of graph opened
